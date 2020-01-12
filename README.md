@@ -1,3 +1,3 @@
 # Molar-Mass-Calculator
 
-![](images/interface.jpb)
+![](Images/interface.jpg)
