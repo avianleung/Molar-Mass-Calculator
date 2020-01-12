@@ -1,3 +1,3 @@
 # Molar-Mass-Calculator
 
-![](Images/interface.jpg)
+![](Images/Interface.jpg)
